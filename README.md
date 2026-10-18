@@ -26,7 +26,7 @@ Dasar Layout yang berisi bagian Home Artikel About dan Kontak
 ![Gambar 9](Layout_Perubahan6.png)
 # Tampilan setelah penambahan Elemen dan CSS pada main Content
 ![Gambar 10](Layout_Perubahan7.png)
-# Penamabahan Elemen article pada Main Content
+# Penambahan Elemen article pada Main Content
 ![Gambar 11](Layout_Perubahan8.png)
 # TUGAS  MENAMBAHKAN LAYOUT UNTUK MENU KONTAK
 ![Gambar 12](Layout_Perubahan9.png)
