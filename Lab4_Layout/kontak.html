@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kontak</title>
+</head>
+<body style="background-color: aliceblue;">
+    <h1 align="center">Kontak</h1>
+    <p align="center">Jika ada pertanyaan, silahkan hubungi saya melalui email: <a href="#">restuajiprasetyo02@gmail.com</a></p>
+    <form align="center" action="proses_registrasi.php" method="post">
+    <fieldset style="width: 300px; margin: auto; padding: 20px; border: 1px solid #ccc; border-radius: 5px;  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); background-color: #f9f9f9;">
+    <label for="name">Nama:</label><br>
+    <input type="text" id="name" name="name" required><br><br>
+    <label for="NIM">NIM:</label><br>
+    <input type="number" id="NIM" name="NIM" required><br><br>
+    <label for="email">Email:</label><br>
+    <input type="email" id="email" name="email" required><br><br>
+    <h2>Jenis Kelamin</h2>
+    <input type="radio" id="laki-laki" name="jenis_kelamin" value="laki-laki">
+    <label for="laki-laki">Laki-laki</label>
+    <input type="radio" id="perempuan" name="jenis_kelamin" value="perempuan">
+    <label for="perempuan">Perempuan</label><br><br>
+    <label for="Alamat">Masukkan Alamat</label><br>
+    <textarea id="Alamat" name="Alamat" cols="50" rows="5"></textarea>
+    </fieldset>
+    </form>
+</body>
+</html>
