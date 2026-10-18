@@ -1,5 +1,5 @@
 # Lab4Web
-### PRAKTIKUM 4 CSS Layout ###
+### LAPORAN PRAKTIKUM 4 CSS Layout ###
 ## MEMBUAT CSS Layout Sederhana
 Ini adalah Hasil dari Tampilan Web Saya
 Restu Aji Prasetyo
@@ -16,4 +16,3 @@ Restu Aji Prasetyo
 ![Gambar 9](Media/Layout_Perubahan6.png)
 ![Gambar 10](Media/Layout_Perubahan7.png)
 ![Gambar 11](Media/Layout_Perubahan8.png)
-# LAPORAN PRAKTIKUM CSS
